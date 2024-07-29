@@ -45,7 +45,7 @@ Construct intermediates and reaction networks containing C, H, O elements (up to
 ## 2. RNet.py
 
 RNet.py constructs a reaction network diagram containing all possible intermediate and elementary reactions based on the specified maximum number of C and O atoms.
-![Reaction network with maxium C of 2 and O atoms of 1](./example/C2O1/Reaction_Net.png)
+![Reaction network with maxium C of 2 and O atoms of 1](./example/Reaction_Net.png)
 
 ## 2.1 RNet.py Usage
 
